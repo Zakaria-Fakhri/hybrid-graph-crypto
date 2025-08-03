@@ -111,11 +111,6 @@ This example demonstrates:
 - **Verification**: Perfect reconstruction of original text
 - **Key Parameters**: p=7, b=3, seed=12345 (example values)
 
-## Requirements
-
-- Python 3.6+
-- No external dependencies (uses only standard library)
-
 ## Theoretical Basis
 
 This algorithm innovatively combines:
@@ -145,4 +140,4 @@ MIT License - see LICENSE file for details.
 
 This is an experimental cryptographic algorithm. Contributions, security analysis, and peer review are welcome.
 
-**⚠️ Warning**: This is an experimental algorithm. Do not use for production security applications without thorough cryptanalytic review.
+Do not use for production security applications without thorough cryptanalytic review.
