@@ -1,8 +1,8 @@
-# ErdosCrypt: Graph-Theoretic Cryptographic Transform
+# Graph-Theoretic Cryptographic Transform
 
 A novel cryptographic algorithm based on graph theory, tree structures, and traversal-dependent encoding.
 
-## Mathematical Foundation
+## Foundation
 
 ### Definition
 Let *P* = password string, *K* = (*p*, *b*, *s*) where *p*, *b* ∈ ℙ (primes), *p* > *b*, *s* ∈ ℤ (seed).
