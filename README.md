@@ -1,6 +1,6 @@
 # Graph-Theoretic Cryptographic Transform
 
-A novel cryptographic algorithm based on graph theory, tree structures, and traversal-dependent encoding.
+A cryptographic algorithm based on graph theory, tree structures, and traversal-dependent encoding.
 
 ## Foundation
 
@@ -92,8 +92,6 @@ Match: True
 ```
 
 ## Theoretical Basis
-
-This algorithm innovatively combines:
 - **Graph Theory**: Erdős-Rényi random graphs for structural diversity
 - **Tree Algorithms**: BFS spanning trees and postorder traversal
 - **Cryptographic Primitives**: XOR operations, hash functions, PRNGs
