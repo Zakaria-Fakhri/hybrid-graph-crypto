@@ -81,20 +81,6 @@ For each vertex *v* ∈ *V*:
   - **Total**: *O*(*n*²)
 - **Key Size**: 2 primes + 1 seed integer
 
-## Usage
-
-```python
-from crypto import encrypt, decrypt
-
-# Encryption
-password = "hello123"
-key_p, key_b, seed = 7, 3, 12345
-encrypted = encrypt(password, key_p, key_b, seed)
-
-# Decryption
-decrypted = decrypt(encrypted, key_p, key_b, seed)
-assert password == decrypted
-```
 
 ### Example Input/Output
 
