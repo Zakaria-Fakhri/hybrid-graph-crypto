@@ -91,12 +91,6 @@ Decrypted: My name is Zak, and I am a computer scientist
 Match: True
 ```
 
-This example demonstrates:
-- **Input**: 46-character string with spaces and punctuation
-- **Output**: Binary-safe encrypted string with extended ASCII characters
-- **Verification**: Perfect reconstruction of original text
-- **Key Parameters**: p=7, b=3, seed=12345 (example values)
-
 ## Theoretical Basis
 
 This algorithm innovatively combines:
