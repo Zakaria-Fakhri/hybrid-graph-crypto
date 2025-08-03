@@ -107,17 +107,11 @@ This algorithm innovatively combines:
 - Context-sensitive encoding provides diffusion
 - Semantic security through randomized IV
 
-**Limitations:**
-- Relatively new algorithm - not extensively cryptanalyzed
-- Performance scales quadratically with input length
-- Requires careful prime selection for key parameters
-
 ## License
 
 MIT License - see LICENSE file for details.
 
 ## Contributing
 
-This is an experimental cryptographic algorithm. Contributions, security analysis, and peer review are welcome.
+This is an experimental cryptographic algorithm.Do not use for production security applications. Contributions, security analysis, and peer review are welcome.
 
-Do not use for production security applications without thorough cryptanalytic review.
