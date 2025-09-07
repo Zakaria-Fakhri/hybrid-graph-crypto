@@ -100,7 +100,7 @@ Match: True
 ## Security Considerations
 
 **Strengths:**
-- Novel approach resistant to traditional cryptanalysis
+
 - Key-dependent graph structure provides confusion
 - Context-sensitive encoding provides diffusion
 - Semantic security through randomized IV
